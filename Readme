@@ -1,0 +1,5 @@
+Pre-requisites -
+ . face_recognition
+ . numpy
+ 
+you need the image to be recognized in the same folder as this code and rename the image as me.jpg
